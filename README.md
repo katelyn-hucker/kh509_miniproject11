@@ -7,6 +7,15 @@ This week's miniproject uses Azure Databricks to create a pipeline using the [la
 
 ## Prepare
 
+![image](https://github.com/katelyn-hucker/kh509_miniproject11/assets/143521756/6e136a5c-24e4-4aa8-87c7-5a25c86fb906)
+
+
 ## Analyze
 
+![image](https://github.com/katelyn-hucker/kh509_miniproject11/assets/143521756/364de2ee-98ab-4f16-8455-17940c66c3bd)
+
+![image](https://github.com/katelyn-hucker/kh509_miniproject11/assets/143521756/24078dca-387d-428e-ba3c-92c84c33e5cd)
+
 ## All three in a data pipline:
+
+![image](https://github.com/katelyn-hucker/kh509_miniproject11/assets/143521756/643be703-1ae2-448d-afbb-e5e314d651d3)
